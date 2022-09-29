@@ -1,0 +1,14 @@
+{
+  "resourceName": "idkDataStorage",
+  "policyUUID": "31f6bfac",
+  "bucketName": "my-data-source-buket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
